@@ -1,2 +1,2 @@
 let update;
-update = false;
+update = true;
