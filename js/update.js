@@ -1,4 +1,3 @@
-let update, maintenance, latest;
+let update, latest;
 update = true;
-maintenance = false;
 latest = "1.6.2";
